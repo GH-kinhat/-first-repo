@@ -2,3 +2,5 @@
 2025.10.16
 开发版本 autorun
 开发版本 autoSee
+
+开发版本4 autoFetch
